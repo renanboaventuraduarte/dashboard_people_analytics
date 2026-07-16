@@ -1,4 +1,4 @@
-# 📊 Dashboard de People Analytics - Remuneração e Cargos
+# 📊 Dashboard People Analytics - Remuneração e Cargos
 
 Este repositório contém um Dashboard interativo desenvolvido no **Microsoft Excel** focado em **People Analytics**. O projeto transforma dados brutos de colaboradores em insights visuais e estratégicos sobre a estrutura salarial da empresa.
 
